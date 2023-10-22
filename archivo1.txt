@@ -9,7 +9,7 @@ Comandos Básicos
 6.-git commit
 7.-git branch
 8.-git checkout
-9.-
-10.-
+9.-git log
+10.-git merge
 11.- 
 12.-
